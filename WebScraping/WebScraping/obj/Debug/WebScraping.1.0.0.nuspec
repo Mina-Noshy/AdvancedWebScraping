@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WebScraping</id>
+    <version>1.0.0</version>
+    <authors>WebScraping</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\projects\console\WebScraping\WebScraping\bin\Debug\net6.0\WebScraping.runtimeconfig.json" target="lib\net6.0\WebScraping.runtimeconfig.json" />
+    <file src="D:\projects\console\WebScraping\WebScraping\bin\Debug\net6.0\WebScraping.dll" target="lib\net6.0\WebScraping.dll" />
+  </files>
+</package>
